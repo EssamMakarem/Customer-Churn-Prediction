@@ -148,7 +148,7 @@ For a churn prediction system, missing customers who are actually going to churn
 - NumPy
 - Matplotlib
 - Scikit-learn
-- Jupyter Notebook / Google Colab
+- Google Colab
 
 ---
 
